@@ -10,7 +10,7 @@ Author: Shalyapina Maria Vasilievna
  - [Вывод](#part_4)
 
 ## <a name="part_1">Упражнение 1</a>
-### 1. Была установлена виртуальная машина Mininet
+#### 1. Была установлена виртуальная машина Mininet
 ![1 вирт машина](https://github.com/muriash/SDN/assets/90574857/973b41bb-5074-4092-87fe-8962f29fd095)
 
 ### 2. Запуск виртуальной машины
