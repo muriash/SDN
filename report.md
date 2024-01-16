@@ -41,10 +41,12 @@ Author: Shalyapina Maria Vasilievna
 2. Запуск компонента hub
 
 ![9 hub connected](https://github.com/muriash/SDN/assets/90574857/c11240a0-3880-48f7-9381-d6dea88f2cef)
+
 3. Для проверки поведения хаба для каждого узла был запущен xterm с помощью команды xterm h1 h2 h3
 4. Результат пинга узлов h2 и h3. Видно, что хостами были получены идентичные пакеты, следовательно хаб работает исправно и отправляет все пакеты на каждый порт сети
 
 ![10 ping](https://github.com/muriash/SDN/assets/90574857/1fbcd523-024c-4987-bf83-b30b345a6e7a)
+
 5. При указании некорректного IP-адреса в команде ping была получена ошибка "Destination Host Unreachable"
 
 ![11 ping error](https://github.com/muriash/SDN/assets/90574857/3e116c91-1604-4bac-ad6b-8558b3d64d6c)
