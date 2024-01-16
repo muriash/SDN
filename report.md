@@ -10,20 +10,20 @@ Author: Shalyapina Maria Vasilievna
  - [Вывод](#part_4)
 
 ## <a name="part_1">Упражнение 1</a>
-###1. Была установлена виртуальная машина Mininet
+### 1. Была установлена виртуальная машина Mininet
 ![1 вирт машина](https://github.com/muriash/SDN/assets/90574857/973b41bb-5074-4092-87fe-8962f29fd095)
 
-###2. Запуск виртуальной машины
+### 2. Запуск виртуальной машины
 ![2 enter mininet](https://github.com/muriash/SDN/assets/90574857/f534b45b-ed2a-490c-8c07-7f040886080f)
 
 ## <a name="part_2">Упражнение 2</a>
-###1. Для выполнения задания был создан скрипт LinearTopo.py, в котором описана простая топология сети
+### 1. Для выполнения задания был создан скрипт LinearTopo.py, в котором описана простая топология сети
 ![3 script code](https://github.com/muriash/SDN/assets/90574857/6db0e24a-45df-481e-b095-8ac23571082e)
 
-###2. Результат выполнения скрипта LinearTopo.py
+### 2. Результат выполнения скрипта LinearTopo.py
 ![4 success linearTopo](https://github.com/muriash/SDN/assets/90574857/7820ab9f-d903-458c-8ff9-3eb8020cbca8)
 
-###3. Из архива  module3-assignment1.zip был взят и дополнен скрипт CustomTopo.py для создания топологии дерева
+### 3. Из архива  module3-assignment1.zip был взят и дополнен скрипт CustomTopo.py для создания топологии дерева
 ![5 script customTopo](https://github.com/muriash/SDN/assets/90574857/f86576e7-59ab-4c94-8606-6679b7f06efd)
 ![5 1 script customTopo](https://github.com/muriash/SDN/assets/90574857/cf127b61-703a-41b8-9e7f-d52f483a803e)
 
