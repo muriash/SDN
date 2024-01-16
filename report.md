@@ -11,7 +11,6 @@ Author: Shalyapina Maria Vasilievna
 
 ## <a name="part_1">Упражнение 1</a>
 1. Была установлена виртуальная машина Mininet
-<p> </p>
 
 ![1 вирт машина](https://github.com/muriash/SDN/assets/90574857/973b41bb-5074-4092-87fe-8962f29fd095)
 
